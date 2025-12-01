@@ -2,7 +2,7 @@
 
 Robo-Advising Portfolio Builder — AFM 127 (Market Meet Winner)
 
-Overview
+Overview:
 
 This project was completed for AFM 127 – Robo-Advising Challenge.
 Our team designed a Python-based robo-advisor that automatically constructs a diversified equity portfolio following strict competition rules. The portfolio was tested on real market data over a one-week period using a secret list of stock tickers.
